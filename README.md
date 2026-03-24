@@ -13,3 +13,4 @@ Prompt estruturado: garante que a IA siga exatamente as seções (voz, cores, ti
 Temperatura moderada: traz equilíbrio na criatividade e consistência nas sugestões visuais.
 
 Exemplos de saída — prints dos 3 testes realizados
+Aprendizado Raul- Consegui entender como se monta a estrutura de um site usando apenas a IA, com os prompts corretos e bem instruídos a IA realiza inúmeras coisas, como o layout feito hoje apenas com comandos criamos um site/app
