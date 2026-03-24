@@ -16,4 +16,6 @@ Exemplos de saída — prints dos 3 testes realizados
 
 Aprendizado Raul- Consegui entender como se monta a estrutura de um site usando apenas a IA, com os prompts corretos e bem instruídos a IA realiza inúmeras coisas, como o layout feito hoje apenas com comandos criamos um site/app
 
-Aprendizado Pedro-Foi possível aprender como pode ser utilizado de forma efetiva a criação de um app com o uso da Inteligência artificial, por exemplo o guia de estilo criado através do Google AI
+Aprendizado Pedro - Foi possível aprender como pode ser utilizado de forma efetiva a criação de um app com o uso da Inteligência artificial, por exemplo o guia de estilo criado através do Google AI
+
+Aprendizado Luan - Eu aprendi a estruturar a IA para elaborar um site de maneira bem fácil, que apesar da rapidez a IA estrutura bem cada item do site e funciona de forma correta. Além de melhorar a forma de como eu peço um prompt.
