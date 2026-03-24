@@ -5,5 +5,7 @@ Integrantes — Raul Sampaio Mochnacs Arruda RM-573523 Pedro Sampaio Mochnacs Ar
 Como usar o app -Digite o tipo de negócio no campo de busca.
 Clique em “enviar”.
 Visualize e exporte o guia gerado.
-Parâmetros utilizados — quais valores e por quê
+Parâmetros utilizados — O modelo escolhido foi o gemini-3-flash-preview: escolhido por velocidade e boa qualidade para respostas estruturadas.
+Prompt estruturado: garante que a IA siga exatamente as seções (voz, cores, tipografia, layout).
+Temperatura moderada: traz equilíbrio na criatividade e consistência nas sugestões visuais.
 Exemplos de saída — prints dos 3 testes realizados
