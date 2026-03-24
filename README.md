@@ -1,4 +1,4 @@
-O Mestre dos Layouts é um que recebe o tipo de negócio e envia para a API Gemini para gerar um guia de estilo completo.
+O Mestre dos Layouts é um que recebe o tipo de negócio e envia para a API Gemini para gerar um guia de estilo completo.\n
 Processa e formata a resposta em Markdown com seções de branding (voz, cores, tipografia e layout).
 Exibe na interface e permite exportação rápida via impressão/PDF.
 Integrantes — Raul Sampaio Mochnacs Arruda RM-573523 Pedro Sampaio Mochnacs Arruda RM-573522 Luan de Araujo Carneiro RM-573691
